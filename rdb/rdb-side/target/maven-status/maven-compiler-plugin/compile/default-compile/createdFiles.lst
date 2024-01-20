@@ -1,0 +1,8 @@
+com/dtstack/flink/sql/side/rdb/all/RdbAllReqRow.class
+com/dtstack/flink/sql/side/rdb/util/MathUtil.class
+com/dtstack/flink/sql/side/rdb/util/SwitchUtil.class
+com/dtstack/flink/sql/side/rdb/async/RdbAsyncReqRow.class
+com/dtstack/flink/sql/side/rdb/async/RdbAsyncSideInfo.class
+com/dtstack/flink/sql/side/rdb/table/RdbSideParser.class
+com/dtstack/flink/sql/side/rdb/table/RdbSideTableInfo.class
+com/dtstack/flink/sql/side/rdb/all/RdbAllSideInfo.class

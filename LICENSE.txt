@@ -1,0 +1,5 @@
+mvn install:install-file -Dfile=/Users/linzhihao/.m2/repository/com/bj58/zhuanzhuan/zzjodis/1.0.12/zzjodis-1.0.12.jar -Dpom=/Users/linzhihao/.m2/repository/com/bj58/zhuanzhuan/zzjodis/1.0.12/zzjodis-1.0.12.pom
+
+mvn install:install-file -Dfile=/Users/linzhihao/.m2/repository/com/bj58/zhuanzhuan/zzjodis/1.0.12/zzjodis-1.0.12.jar -Dpom=/Users/linzhihao/.m2/repository/com/bj58/zhuanzhuan/zzjodis/1.0.12/zzjodis-1.0.12.pom
+
+mvn -U clean install
